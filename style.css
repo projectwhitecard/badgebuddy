@@ -1,0 +1,12 @@
+body
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 70%;
+    background: #ffffff;
+    color: #000000;
+}
+
+h1, h2, h3, h4, input, textarea, select, .default_font
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}

@@ -1,0 +1,33 @@
+# Apply native OS line-endings on checkout of these files...
+*.css       text
+*.htm       text
+*.html      text
+*.js        text
+*.json      text
+*.md        text
+*.php       text
+*.txt       text
+*.xml       text
+COPYING     text
+INSTALL*    text
+KEYS*       text
+LICENSE*    text
+NEWS*       text
+NOTICE*     text
+README*     text
+TODO*       text
+WHATSNEW*   text
+
+# Apply Unix-style LF line-endings on checkout of these files...
+.htaccess   text eol=lf
+*.sh        text eol=lf
+
+# Apply Windows/DOS-style CR-LF line-endings on checkout of these files...
+*.bat       text eol=crlf
+*.cmd       text eol=crlf
+
+# No end-of-line conversions are applied (i.e., "-text -diff") to these files...
+*.gif       binary
+*.jpeg      binary
+*.jpg       binary
+*.png       binary

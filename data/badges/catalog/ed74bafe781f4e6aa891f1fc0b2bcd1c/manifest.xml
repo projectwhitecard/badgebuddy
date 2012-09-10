@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest>
+    <proof>0a792c7539f64055913f7c1daaf7377b</proof>
+    <badgeName>Template Badge (XML)</badgeName>
+    <description>Interacted with an XML templated badge.</description>
+    <imageURL>data/badges/catalog/ed74bafe781f4e6aa891f1fc0b2bcd1c/badge.png</imageURL>
+    <criteriaURL>data/badges/catalog/ed74bafe781f4e6aa891f1fc0b2bcd1c/criteria.html</criteriaURL>
+    <issuerOriginURL></issuerOriginURL>
+    <issuerName>Template Academy</issuerName>
+    <issuerOrganization></issuerOrganization>
+    <issuerEmail></issuerEmail>
+    <expiresUnixTime>0</expiresUnixTime>
+</manifest>

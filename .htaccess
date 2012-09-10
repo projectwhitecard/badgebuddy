@@ -1,0 +1,7 @@
+# Do not serve some types of files
+<FilesMatch "\.(inc|inc\.php|test|po|sh|.*sql|svn-base)$|^(\..*|entries)$">
+  Order allow,deny
+</FilesMatch>
+
+# Do not show directory listings
+Options -Indexes
